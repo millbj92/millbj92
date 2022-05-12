@@ -8,7 +8,6 @@ I am a principal developer with over 16 years of experience. I have extensive kn
 
 - 🌱 I’m currently learning a few different things, but have been mainly focused on Typescript, cloud architecture and IaC, and building 3D websites using @react-three/fiber.
 - 💬 Ask me about Typescript, Golang, or Unity3d. That's bound to strike up a conversation.
-- 📫 How to reach me: brandon@brandonmiller.io
 - 🌍  I'm based in Jacksonville, Florida
 - ✉️  You can contact me at [brandon@brandonmiller.io](mailto:brandon@brandonmiller.io)
 - 🧠  I'm learning in-depth kubernetes and Cluster API
