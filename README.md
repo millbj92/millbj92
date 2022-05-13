@@ -39,6 +39,8 @@ gantt
     section Projects
     Distributed social network    :2022-03-15, 2022-07-01
     Discord and Twitch bots       :2022-05-11, 2022-07-15
+    Personal Dashboard            :2022-05-20, 2022-08-15
+    Reading list Chrome extension  :2022-05-20, 2022-08-15
 ```
 
 Skills
