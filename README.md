@@ -15,6 +15,32 @@ I am a principal developer with over 16 years of experience. I have extensive kn
 - ⚡ Fun fact: Performing multiplication in your code is always a fraction faster than division since, under the hood, the CPU breaks it down in to multiplication anyways. I.E. multiplying by 0.1 is faster than dividing by 100. Not a huge deal to most, but in cases where efficiency is everything, this can be a good trick to know!
 
 
+```mermaid
+gantt
+    title Current Goals and Projects
+    %% this is a comment
+    dateFormat  YYYY-MM-DD
+    section Frontend
+    TS deep-dive          :a1, 2021-09-01, 30d
+    TS Generics     :after a1  , 20d
+    section Backend
+    Neo4j      :2022-01-12  , 12d
+    NestJS deep-dive      : 24d
+    Redis             :2021-10-01, 15d
+    RabbitMQ          :2021-10-15, 20d
+    Kafka             :2021-11-03, 30d
+    section Misc
+    Terraform             :2022-02-01, 30d
+    AWS                   :2022-01-13, 60d
+    Azure                 :2022-01-13, 60d
+    Kubernetes/Helm       :2022-03-01, 2022-07-28
+    GitOps                :2022-04-01, 2022-08-01
+    NX Monorepo           :2021-12-01, 30d
+    section Projects
+    Distributed social network    :2022-03-15, 2022-07-01
+    Discord and Twitch bots       :2022-05-11, 2022-07-15
+```
+
 Skills
 ----------
   
