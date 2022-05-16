@@ -1,4 +1,8 @@
-Hi 👋 My name is Brandon Miller
+<div style="padding: 1.2rem">
+    
+  <img style="width: 100%" src="./header_img.png" alt="Brandon Miller" />
+    
+</div>
 ===============================
 Solutions Architect & Principal Software Engineer
 -------------------------------------------------
