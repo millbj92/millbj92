@@ -105,8 +105,7 @@ gantt
 
 </td><td valign="top" width="33%">
 
-
-
+    
 ### DevOps  
 
 </br>
@@ -168,9 +167,10 @@ gantt
 </br>
 <center>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=millbj92&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=millbj92&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-</br>    
+</br>  
+</br>
 
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=millbj92&theme=tokyonight" alt="mystreak"/>
   
@@ -191,3 +191,5 @@ gantt
 ----
 
 <img src="https://github-profile-trophy.vercel.app/?username=millbj92&theme=discord&no-bg=true" />
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
