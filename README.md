@@ -165,12 +165,16 @@ gantt
 ----------
 
 </br>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=millbj92&theme=tokyonight" alt="mystreak"/>
-
+<center>
+    
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=millbj92&theme=tokyonight" alt="mystreak"/>
+  
+</center>
 </br>
 
 😎 Some of my favorite projects
 ----
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=millbj92&repo=nx-event-driven)](https://github.com/millbj92/nx-event-driven)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=millbj92&repo=event-driven-go)](https://github.com/millbj92/event-driven-go)
 
